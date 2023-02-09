@@ -1,4 +1,8 @@
-##  Npm Start To Run App 
+
+### `npm install`
+
+
+### `npm start`
 
 
 ![Netflix-App-1](https://user-images.githubusercontent.com/90987920/202921017-a9a619c9-5c62-41cf-a9c2-5c0419301690.PNG)
