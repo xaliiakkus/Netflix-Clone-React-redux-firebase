@@ -1,1 +1,1 @@
-![Uploading portfolio-netflix.png…]()
+# Getting Started with Create React App and Redux
